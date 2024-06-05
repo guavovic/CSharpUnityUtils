@@ -1,12 +1,12 @@
 # CSharpUnityUtils
-Repositório dedicado a fornecer uma coleção de scripts úteis e extensões desenvolvidas em C# para facilitar o desenvolvimento de seus projetos na Unity.
+Este repositório é dedicado a fornecer uma coleção de scripts úteis e extensões desenvolvidas em C# para facilitar o desenvolvimento de projetos Unity.
 
-Recursos: \
-Scripts Utilitários: Conjunto de scripts que simplificam tarefas comuns no desenvolvimento com Unity. \
-Extensões de Componentes: Expansões de componentes padrão do Unity para adicionar funcionalidades extras. \
-Ferramentas de Depuração: Scripts que auxiliam na depuração e no monitoramento de desempenho. \
-Automatizações: Scripts para automatizar tarefas repetitivas e melhorar a eficiência do desenvolvimento. \
-Exemplos e Tutoriais: Exemplos práticos e tutoriais para ajudar na implementação das ferramentas no seu projeto.
+Recursos:
+* Scripts Utilitários: Conjunto de scripts que simplificam tarefas comuns no desenvolvimento com Unity.
+* Extensões de Componentes: Expansões de componentes padrão do Unity para adicionar funcionalidades extras.
+* Ferramentas de Depuração: Scripts que auxiliam na depuração e no monitoramento de desempenho.
+* Automatizações: Scripts para automatizar tarefas repetitivas e melhorar a eficiência do desenvolvimento.
+* Exemplos e Tutoriais: Exemplos práticos e tutoriais para ajudar na implementação das ferramentas no seu projeto.
 
 **Como Usar**
 1. Clone o Repositório:
