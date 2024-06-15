@@ -1,4 +1,4 @@
-# CSharpUnityUtils
+# CSharp Unity Utils
 Este repositório é dedicado a fornecer uma coleção de scripts úteis e extensões desenvolvidas em C# para facilitar o desenvolvimento de projetos Unity.
 
 **Recursos:**
