@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 #if UNITY_EDITOR
 using UnityEditor;
@@ -8,13 +6,13 @@ using UnityEditor;
 namespace GV.Extensions
 {
     /// <summary>
-    /// Classe de atributo usado para marcar uma vari·vel como somente leitura.
+    /// Classe de atributo usado para marcar uma vari√°vel como somente leitura.
     /// </summary>
     public class ReadOnlyAttribute : PropertyAttribute { }
 
 #if UNITY_EDITOR
     /// <summary>
-    /// Classe do desenhista personalizado para vari·veis marcadas com [ReadOnly].
+    /// Classe do desenhista personalizado para vari√°veis marcadas com [ReadOnly].
     /// </summary>
     [CustomPropertyDrawer(typeof(ReadOnlyAttribute))]
     public class ReadOnlyDrawer : PropertyDrawer
